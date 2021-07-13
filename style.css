@@ -1,0 +1,43 @@
+.nav-link{
+    color: gray;
+}
+.container{
+    background-color: white;
+    margin-bottom: 40px;
+}
+.buy-me{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item p{
+    color: gray;
+}
+small{
+    color: orange;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: -5px -5px 15px lightgray,5px 5px 15px lightgray;
+}
+.laptop{
+    margin-bottom: 100px;
+}
+.card-text{
+    color: gray;
+}
+.cat{
+    text-align: center;
+}
