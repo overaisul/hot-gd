@@ -41,3 +41,24 @@ small{
 .cat{
     text-align: center;
 }
+.see{
+    cursor: pointer;
+}
+h6{
+    margin-top: 10px;
+}
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 60px;
+}  
+.category-item{
+    padding: 60px 60px;
+}
+.card-item{
+    margin-bottom: 30px;
+}
+.all{
+    color: gray;
+    text-align: center;
+}
